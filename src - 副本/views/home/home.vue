@@ -1,9 +1,10 @@
 <template>
-  <h2>{{$store.state.counter}}</h2>
+  <div>home</div>
 </template>
 
 <script>
 export default {
+
 }
 </script>
 
